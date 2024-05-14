@@ -9,10 +9,6 @@
         "chat": "https://www.drupal.org/node/314178"
     },
     "repositories": {
-        "miniorange_drupal": {
-            "type": "vcs",
-            "url": "https://github.com/sudhanshu-xecurify/miniorange_oauth_client.git"
-        },
         "0": {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
@@ -31,9 +27,7 @@
         "drupal/examples": "^4.0",
         "drupal/oauth_login_oauth2": "^3.0",
         "drupal/samlauth": "3.9",
-        "drush/drush": "^12.4",
-        "jjj/chosen": "^2.2",
-        "miniorange/miniorange_oauth_client": "^40.5"
+        "drush/drush": "^12.4"
     },
     "conflict": {
         "drupal/drupal": "*"
